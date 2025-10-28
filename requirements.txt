@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+spacy
+pandas
+numpy
+regex
